@@ -1,0 +1,12 @@
+name: moose
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - numpy
+    - pymoose
+    - matplotlib
+    - scipy
+    - networkx
+
